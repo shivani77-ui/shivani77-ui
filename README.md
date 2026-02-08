@@ -1,27 +1,30 @@
-<h1 align="center">Hi 👋, I'm Shivani Bodara</h1>
+<h1>Hi 👋, I'm Shivani Bodara</h1>
 
-<h3 align="center">A Data Analyst transforming raw data into meaningful insights</h3>
+<h3>Nice to see you.</h3>
+
+Welcome to my page!
+I'm a Data Analyst from Gujarat, India currently living in Illinois, United States.
 
 
-- 🔭 I’m currently working on **End-to-End Banking Analytics Project at Pro-Tek Consulting**
+🔭 I’m currently working on End-to-End Banking Analytics Project at Pro-Tek Consulting
 
-- 🌱 I’m currently learning **Advanced SQL, DAX for Power BI, end-to-end data pipeline design and AI-driven analytics**
+🌱 I’m currently learning Advanced SQL, DAX for Power BI, end-to-end data pipeline design and AI-driven analytics
 
-- 👯 I’m looking to collaborate on **Data analytics projects involving SQL, Python, and Power BI, especially in finance, sales, or customer behavior analysis.**
+👯 I’m looking to collaborate on Data analytics projects involving SQL, Python, and Power BI, especially in finance, sales, or customer behavior analysis
 
-- 🤝 I’m looking for help with **Advanced analytics techniques, dashboard optimization, and scalable data workflows.**
+🤝 I’m looking for help with Advanced analytics techniques, dashboard optimization, and scalable data workflows
 
-- 👨‍💻 All of my projects are available at [https://github.com/shivani77-ui](https://github.com/shivani77-ui)
+👨‍💻 All of my projects are available at [https://github.com/shivani77-ui](https://github.com/shivani77-ui)
 
-- 📝 I regularly write articles on [http://www.linkedin.com/in/shivani-patel-91a67a132](http://www.linkedin.com/in/shivani-patel-91a67a132)
+📝 I regularly write articles on [http://www.linkedin.com/in/shivani-patel-91a67a132](http://www.linkedin.com/in/shivani-patel-91a67a132)
 
-- 💬 Ask me about **SQL, Python, Power BI dashboards, and data-driven insights**
+💬 Ask me about SQL, Python, Power BI dashboards, and data-driven insights
 
-- 📫 How to reach me **shivanibodara1@gmail.com**
+📫 How to reach me **shivanibodara1@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18lKn2pIF9xx-waJvO77s90BFJ9tF2SU0/view?usp=sharing](https://drive.google.com/file/d/18lKn2pIF9xx-waJvO77s90BFJ9tF2SU0/view?usp=sharing)
+📄 Know about my experiences [https://drive.google.com/file/d/18lKn2pIF9xx-waJvO77s90BFJ9tF2SU0/view?usp=sharing](https://drive.google.com/file/d/18lKn2pIF9xx-waJvO77s90BFJ9tF2SU0/view?usp=sharing)
 
-- ⚡ Fun fact **I love watching movies and analyzing their ratings and trends.**
+⚡ Fun fact **I love watching movies and analyzing their ratings and trends.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
