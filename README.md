@@ -27,6 +27,10 @@
 
 ### 💼 Professional Experience Highlights - [Resume](https://drive.google.com/file/d/18lKn2pIF9xx-waJvO77s90BFJ9tF2SU0/view?usp=sharing)
 
+<table>
+<tr>
+<td width="50%">
+
 **Junior Data Analyst**  
 📍 Pro-Tek Consulting, Chicago, IL  
 📅 Jun 2024 - Present
@@ -36,6 +40,9 @@
 - 🐍 Python-based EDA & time-series analysis
 - ⚡ Automated reporting workflows
 
+</td>
+<td width="50%">
+
 **Data Analyst Intern**  
 📍 Viasat, Inc., Germantown, MD  
 📅 May 2023 - Aug 2023
@@ -44,6 +51,10 @@
 - 📈 Built Tableau dashboards tracking 50+ regions
 - 📉 Reduced complaints by 15% via analysis
 - ⏱️ Saved 10 hours/week through automation
+
+</td>
+</tr>
+</table>
 
 ---
 
