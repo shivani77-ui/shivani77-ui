@@ -1,41 +1,92 @@
-<h1>Hi 👋, I'm Shivani Bodara</h1>
+# Hi, I'm Shivani Bodara 👋
 
-<h3>Nice to see you.</h3>
+## Data Analyst | Turning Data into Actionable Business Insights
 
-Welcome to my page!
-I'm a Data Analyst from Gujarat, India currently living in Illinois, United States.
+I'm a data analyst specializing in **business intelligence, financial analytics, and customer behavior analysis**. I leverage SQL, Python, and visualization tools to uncover trends, optimize operations, and drive data-informed decision-making. Currently working at Pro-Tek Consulting, where I analyze banking transactions and create dashboards that impact business strategy.
 
+📍 Chicago, IL | 📧 shivanibodara1@gmail.com | 💼 [LinkedIn](http://www.linkedin.com/in/shivani-patel-91a67a132) | 📱 +1 (945) 214-4977
 
-🔭 I’m currently working on End-to-End Banking Analytics Project at Pro-Tek Consulting
+---
 
-🌱 I’m currently learning Advanced SQL, DAX for Power BI, end-to-end data pipeline design and AI-driven analytics
+## 💼 Professional Experience Highlights
 
-👯 I’m looking to collaborate on Data analytics projects involving SQL, Python, and Power BI, especially in finance, sales, or customer behavior analysis
+**Junior Data Analyst** @ Pro-Tek Consulting *(Jun 2024 - Present)*
+- Analyze digital banking transactions and loan data to identify customer behavior patterns
+- Build Power BI dashboards tracking transaction volumes, approval rates, and financial KPIs
+- Reduced manual reporting effort through automated Python pipelines
 
-🤝 I’m looking for help with Advanced analytics techniques, dashboard optimization, and scalable data workflows
+**Data Analyst Intern** @ Viasat, Inc. *(May 2023 - Aug 2023)*
+- Processed 10M+ network records using SQL & Python for quality analysis
+- Reduced customer complaints by 15% through time-series analysis identifying network bottlenecks
+- Saved 10 hours/week by automating routine reports and dashboards
 
-👨‍💻 All of my projects are available at [https://github.com/shivani77-ui](https://github.com/shivani77-ui)
+---
 
-📝 I regularly write articles on [http://www.linkedin.com/in/shivani-patel-91a67a132](http://www.linkedin.com/in/shivani-patel-91a67a132)
+## 📊 Featured Projects
 
-💬 Ask me about SQL, Python, Power BI dashboards, and data-driven insights
+### [End-to-End Sales Analytics Pipeline](link-to-repo)
+**Tech Stack:** SQL (PostgreSQL), Power BI, Tableau, Excel
 
-📫 How to reach me **shivanibodara1@gmail.com**
+Built a comprehensive sales analytics solution that transforms raw transaction data into strategic business insights.
 
-📄 Know about my experiences [https://drive.google.com/file/d/18lKn2pIF9xx-waJvO77s90BFJ9tF2SU0/view?usp=sharing](https://drive.google.com/file/d/18lKn2pIF9xx-waJvO77s90BFJ9tF2SU0/view?usp=sharing)
+---
 
-⚡ Fun fact **I love watching movies and analyzing their ratings and trends.**
+### [Sales & Customer Insights Analysis](link-to-repo)
+**Tech Stack:** SQL (PostgreSQL), Python (Pandas, Matplotlib, Seaborn), Excel
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shivani-patel-91a67a132/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shivani-patel-91a67a132/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/shivanibodara/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/shivanibodara/" height="30" width="40" /></a>
-</p>
+Deep-dive analysis of retail sales data to uncover purchasing patterns and customer lifetime value.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivani77-ui&show_icons=true&locale=en&layout=compact" alt="shivani77-ui" /></p>
+## 🛠️ Technical Skills
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivani77-ui&show_icons=true&locale=en" alt="shivani77-ui" /></p>
+**Data Analysis & Querying**
+- SQL (PostgreSQL, MySQL) - Complex queries, CTEs, Window functions, Performance optimization
+- Python (Pandas, NumPy) - Data manipulation, cleaning, and transformation at scale
 
+**Visualization & BI Tools**
+- Power BI & Tableau - Interactive dashboards, KPI tracking, executive reporting
+- Advanced Excel - Pivot Tables, Power Query, VLOOKUP/XLOOKUP, Data modeling
+
+**Statistical Analysis & ML**
+- Exploratory Data Analysis (EDA)
+- Time-series Analysis & Forecasting
+- Customer Segmentation & Cohort Analysis
+- Scikit-learn for predictive modeling
+
+**Databases & Platforms**
+- PostgreSQL, MySQL, MongoDB
+- Git/GitHub for version control
+- AWS, Jupyter Notebook, VS Code
+- Agile/Scrum methodology
+
+---
+
+## 📈 What I'm Working On
+
+- Expanding my machine learning capabilities with advanced forecasting models
+- Building a portfolio of public datasets and reusable analysis templates
+- Learning cloud data platforms (AWS Redshift, Google BigQuery)
+
+---
+
+## 🎓 Education
+
+**Master of Science in Computer Science** | Cleveland State University *(Jan 2022 - Dec 2023)*
+- Relevant Coursework: Data Mining, Engineering Statistics & Probability, Data Structures & Algorithms
+
+**Bachelor of Engineering in Electrical Engineering** | Gujarat Technological University *(Aug 2015 - Jun 2019)*
+
+---
+
+## 📫 Let's Connect
+
+I'm always interested in discussing data analytics, business intelligence, and opportunities to drive business impact through data. Feel free to reach out!
+
+- 📧 Email: shivanibodara1@gmail.com
+- 💼 LinkedIn: [Your LinkedIn Profile](your-linkedin-url)
+- 📱 Phone: +1 (945) 214-4977
+
+---
+
+*"Data tells stories, but insights drive decisions. I help businesses translate their data into actionable strategies."*
