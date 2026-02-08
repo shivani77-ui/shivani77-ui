@@ -8,7 +8,7 @@ I'm a data analyst specializing in **business intelligence, financial analytics,
 
 ---
 
-## 💼 Professional Experience Highlights
+## 💼 Professional Experience Highlights - [Resume](https://drive.google.com/file/d/18lKn2pIF9xx-waJvO77s90BFJ9tF2SU0/view?usp=sharing)
 
 **Junior Data Analyst** @ Pro-Tek Consulting *(Jun 2024 - Present)*
 - Analyze digital banking transactions and loan data to identify customer behavior patterns
