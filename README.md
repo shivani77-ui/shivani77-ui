@@ -113,6 +113,8 @@
 
 ![Project Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-Pandas-blue?style=flat-square)
+![Python](https://img.shields.io/badge/Python-Seaborn-3776AB?style=flat-square)
+![Python](https://img.shields.io/badge/Python-Matplotlib-11557c?style=flat-square)
 ![Analysis](https://img.shields.io/badge/Analysis-EDA-red?style=flat-square)
 
 ---
