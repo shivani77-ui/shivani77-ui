@@ -109,7 +109,7 @@
 
 ---
 
-### 🛒 [Sales & Customer Insights Analysis](link-to-repo)
+### 🛒 [Sales & Customer Insights Analysis](https://github.com/shivani77-ui/Sales-Customer-Insights-Analysis)
 
 ![Project Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-Pandas-blue?style=flat-square)
