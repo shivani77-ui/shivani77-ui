@@ -100,7 +100,7 @@
 
 ## 📊 Featured Projects
 
-### 🚀 [End-to-End Sales Analytics Pipeline](link-to-repo)
+### 🚀 [End-to-End Sales Analytics Pipeline](https://github.com/shivani77-ui/End-to-End-Sales-Analytics)
 
 ![Project Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
 ![SQL](https://img.shields.io/badge/SQL-PostgreSQL-blue?style=flat-square)
