@@ -75,10 +75,10 @@
 📍 Pro-Tek Consulting, Chicago, IL  
 📅 Jun 2024 - Present
 
-- 💳 Analyze banking transactions & loan data
+- 💳 Analyzed 1M+ banking transactions & loan data
 - 📊 Build Power BI dashboards for stakeholders
 - 🐍 Python-based EDA & time-series analysis
-- ⚡ Automated reporting workflows
+- ⚡ Reduce manual reporting effort by ~30% through automated reporting workflows
 
 </td>
 <td width="50%">
