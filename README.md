@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shivani Bodara</h1>
+<h1 align="center">Hi 👋, I'm Shivani Bhikadiya</h1>
 <h3 align="center">Data Analyst | Turning Data into Actionable Business Insights</h3>
 
 <p align="center">
